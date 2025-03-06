@@ -1,0 +1,15 @@
+{
+  "hash": "960bc90c4d1d4016634509792f97bb21",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Oliver Siu\"\nabout:\n  template: trestles\n  image: profile.png\n  links:\n    \n    - icon: linkedin\n      text: LinkedIn\n      href: https://www.linkedin.com/in/oliver-siu/\n      \n    - icon: github\n      text: Github\n      href: https://github.com/odspro-ucla\n      \n    - icon: inbox-fill\n      text: Email\n      url: \"mailto:odspro@ucla.edu\"\n      \n    - icon: file-text-fill\n      text: Résume\n      url: \"resume.pdf\"\n      \n---\n\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

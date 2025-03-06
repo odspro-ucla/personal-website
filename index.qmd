@@ -1,11 +1,46 @@
 ---
-title: "Home"
+title: "Oliver Siu"
+about:
+  template: trestles
+  image: profile.png
+  links:
+    
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/oliver-siu/
+      
+    - icon: github
+      text: Github
+      href: https://github.com/odspro-ucla
+      
+    - icon: inbox-fill
+      text: Email
+      url: "mailto:odspro@ucla.edu"
+      
+    - icon: file-text-fill
+      text: Résume
+      url: "resume.pdf"
+      
 ---
 
-This is a Quarto website.
+## Hello!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm Oliver, an aspiring statistician passionate about data science and machine learning. Thanks for checking out my website!
 
-```{r}
-1 + 1
-```
+Check out my projects and learn how I can contribute to your team.
+
+## Education
+
+**University of California, Los Angeles (UCLA)** \
+Bachelor of Science, Statistics & Data Science \
+Expected June 2025
+
+\newline\newline
+
+**Saddleback College** \
+Associate in Science -- Transfer, Mathematics \
+May 2023
+
+## Volunteer Experience
+
+

@@ -1,13 +1,24 @@
 project:
-  type: website
+  type: website 
+  resources:
+    - resume.pdf
 
 website:
-  title: "personal-website"
+  title: "Oliver Siu"
   navbar:
-    left:
+    right:
+      
       - href: index.qmd
         text: Home
-      - about.qmd
+        
+      - href: projects.qmd
+        text: Projects
+        
+      - href: about.qmd
+        text: About
+        
+  page-footer:
+    right: "&copy; 2025 Oliver Siu"
 
 format:
   html:
@@ -15,5 +26,5 @@ format:
     css: styles.css
     toc: true
 
-
-
+execute:
+  freeze: auto

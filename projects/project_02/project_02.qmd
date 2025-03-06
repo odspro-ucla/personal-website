@@ -1,0 +1,32 @@
+---
+title: "Caffeine Island"
+date: "6/9/2024"
+date-format: long
+description: "Investigating the effects of caffeine consumption on human cognitive function."
+image: thumbnail.png
+categories: [Group, Experiment, Cognitive Analysis]
+format: html
+about:
+  template: marquee
+  image: thumbnail.png
+---
+
+## Project Details
+
+  - Project Type: Academic Group Project
+  - Role: Data Analyst
+  - Responsibilities:
+    - Contributed in a team of seven to investigate the effects of caffeine consumption on human cognitive function, utilizing [The Islands](https://islands.smp.uq.edu.au/login.php) virtual simulation platform from [The University of Queensland](https://www.uq.edu.au/).
+    - Determined a lack of improvement in cognitive function with caffeine consumption through Analysis of Variance (ANOVA).
+    - Coordinated with team members to distribute caffeine doses and record cognitive function scores with minimal confounding factors.
+  - Co-wrote Introduction section.
+
+## Abstract
+
+Caffeine is one of the most commonly consumed legal drugs on the market, boasting various effects ranging from improved physiological capabilities to addictions. This investigative project challenges the validity of popular claims that caffeine can improve mental performance such as increasing a person’s attention span. A simulated island population was utilized to research the effects of caffeine with a Replicated Latin Square Design to experiment. 63 participants were selected to participate in the study and were assigned one of 3 levels of caffeine, and each participant underwent a 10-minute attention test before and after taking their assigned amount of caffeine. The differences in their test results were compared, and these differences found that caffeine did not have a significant effect on any participant’s attention test scores. Caffeine has many known practical and popular uses in consumer products, but it may not be suitable for maintaining a person’s attention span. Further research is recommended to ascertain caffeine’s exact benefits and drawbacks. As with any drug, caffeine should be consumed in moderation, and consumers using caffeine as a performance enhancer should ensure to consume caffeine for the appropriate tasks.
+
+## Links
+
+[Project Report](island-caffeine-report.pdf)
+
+[Link to Github Repository](https://github.com/odspro-ucla/caffeine-island)

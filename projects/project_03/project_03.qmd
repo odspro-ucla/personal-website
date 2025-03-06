@@ -1,0 +1,33 @@
+---
+title: "2020 Exit Polls"
+date: "12/9/2024"
+date-format: long
+description: "Predictive modeling of the 2020 U.S. Presidential Election."
+image: thumbnail.png
+categories: [Group, Machine Learning, Social Impact]
+format: html
+about:
+  template: marquee
+  image: thumbnail.png
+---
+
+## Project Details
+
+  - Project Type: Academic Group Project
+  - Role: Lead Data Engineer
+  - Responsibilities:
+    - Guided a team of five to develop a predictive model for the 2020 U.S. Presidential Election using exit poll data.
+    - Integrated logistic regression and random forest machine learning algorithms to predict the election outcome with a 85% accuracy rate.
+    - Designed 20+ visualizations included in the final report.
+  - Co-wrote Model Selection, Model Assumptions, and Results sections.
+
+
+## Abstract
+
+This analysis aims to explore patterns in voting behavior using demographic and social attitude data. Utilizing logistic regression and random forest, we identified variables such as higher education levels, support for legal abortion, and belief in climate change as positively associated with voting Democratic, while better financial situations and Christian religious affiliations were negatively associated with voting Democratic. A model with 6 predictors was determined to be most applicable with a prediction accuracy 85% and a ROC AUC score of 0.91. Future efforts should focus on standardizing survey questions to minimize the number of survey versions and and increase effective sample size and representation which will improve model accuracy.
+
+## Links
+
+[Project Report](2020_exit-poll_report.pdf)
+
+[Link to Github Repository](https://github.com/odspro-ucla/2020_exit-poll)

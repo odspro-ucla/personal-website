@@ -1,9 +1,17 @@
 ---
-title: "About"
+title: "About Oliver"
 ---
 
-About this site
+## Background
 
-```{r}
-1 + 1
-```
+Oliver is a senior at UCLA majoring in Statistics and Data Science.
+
+<!-- linkedin summary -->
+
+## Hobbies
+
+<!-- music, instruments, photography -->
+
+## Skills
+
+<!-- coding languages, software(categorize), language -->

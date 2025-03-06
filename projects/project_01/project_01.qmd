@@ -1,0 +1,30 @@
+---
+title: "Comparebnb"
+date: "12/16/2023"
+date-format: long
+description: "Socioeconomic analysis of the Airbnb's operations in London and New York City."
+image: thumbnail.png
+categories: [Group, Web Development, Social Impact]
+format: html
+about:
+  template: marquee
+  image: thumbnail.png
+---
+
+## Project Details
+
+  - Project Type: Academic Group Project
+  - Role: Lead Web Designer
+  - Responsibilities:
+    - Collaborated in a team of six to investigate, critique, and publish the socioeconomic impacts of Airbnb on various cities.
+    - Sole website architect spearheading website design, compatibility, and accessibility functions under a 16-hour deadline, ensuring full screen reader compatibility and a 0-error [WAVE Evaluation](https://wave.webaim.org/) score.
+    - Responsible for Figures [1](https://comparebnb.humspace.ucla.edu/analysis/) and [10](https://comparebnb.humspace.ucla.edu/conclusion/).
+  - Co-wrote Datsets, Overview, and Conclusion pages.
+
+## Summary
+
+This research project was sparked by observations of the diverse relationships Airbnb establishes with various cities worldwide. In examining the impact of Airbnb’s operation on the socioeconomic aspects of London and New York City, this project aimed to uncover the key differences between these two influential cities. A particular interest was aimed in understanding how regulatory adjustments have influenced the supply and demand for short-term rentals and, subsequently, how these changes affect affordability and housing availability.
+
+## Links
+
+[Project Site](https://comparebnb.humspace.ucla.edu/)
