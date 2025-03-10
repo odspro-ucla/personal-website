@@ -32,21 +32,21 @@
     "href": "projects/project_02/project_02.html#links",
     "title": "Caffeine Island",
     "section": "Links",
-    "text": "Links\nProject Report\nLink to Github Repository"
+    "text": "Links\nProject Report\nGithub Repository"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Oliver Siu",
     "section": "",
-    "text": "I’m Oliver, an aspiring statistician passionate about data science and machine learning. Thanks for checking out my website!\nCheck out my projects and learn how I can contribute to your team."
+    "text": "I’m Oliver, an aspiring statistician passionate about data science and machine learning. Check out my projects and learn how I can contribute to your team!"
   },
   {
     "objectID": "index.html#hello",
     "href": "index.html#hello",
     "title": "Oliver Siu",
     "section": "",
-    "text": "I’m Oliver, an aspiring statistician passionate about data science and machine learning. Thanks for checking out my website!\nCheck out my projects and learn how I can contribute to your team."
+    "text": "I’m Oliver, an aspiring statistician passionate about data science and machine learning. Check out my projects and learn how I can contribute to your team!"
   },
   {
     "objectID": "index.html#education",
@@ -60,35 +60,35 @@
     "href": "index.html#volunteer-experience",
     "title": "Oliver Siu",
     "section": "Volunteer Experience",
-    "text": "Volunteer Experience"
+    "text": "Volunteer Experience\nGrace of Jesus Christ Crusade\nAudio Engineer\nJuly 2014 - December 2017"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Oliver",
     "section": "",
-    "text": "Oliver is a senior at UCLA majoring in Statistics and Data Science."
+    "text": "When I was growing up, I thought math was useless. The math lovers around me struggled to demonstrate the practicality of math. They would flaunt their formulas used to calculate which water pressure regulator to install on a pipe while forgetting that water pressure varies with temperature. The pipe would explode, and I would trudge through the cold winter to fix the pipe, contemplating how math was useless.\nMy mindset changed in college where my mathematics professors showed me that that mathematics was not as limited as I had previously been shown, and it was through the encouragement of my professors that I became interested in data science. The more I learned about statistics and data science, the more I realized how numbers were not abstract theories but powerful tools that drive impactful decision making.\nI have a nontraditional journey to higher education. I left school at 12 to train for a path I didn’t ultimately pursue, but it gave me many unique experiences and took me to many places across the globe such as Hong Kong, Taiwan, and Tahiti. In addition to my primary language, English, I picked up Mandarin and Cantonese while abroad, thus training strong adaptability and a keen eye for patterns.\nNow, I specialize in using statistical methods through R, Python, and SQL to analyze data for informed data-driven decision making. My nontraditional global background gives me a flexible and resourceful problem-solving mindset, and my strong work ethic ensures I’m always willing to put in the effort to learn and grow."
   },
   {
     "objectID": "about.html#background",
     "href": "about.html#background",
     "title": "About Oliver",
     "section": "",
-    "text": "Oliver is a senior at UCLA majoring in Statistics and Data Science."
+    "text": "When I was growing up, I thought math was useless. The math lovers around me struggled to demonstrate the practicality of math. They would flaunt their formulas used to calculate which water pressure regulator to install on a pipe while forgetting that water pressure varies with temperature. The pipe would explode, and I would trudge through the cold winter to fix the pipe, contemplating how math was useless.\nMy mindset changed in college where my mathematics professors showed me that that mathematics was not as limited as I had previously been shown, and it was through the encouragement of my professors that I became interested in data science. The more I learned about statistics and data science, the more I realized how numbers were not abstract theories but powerful tools that drive impactful decision making.\nI have a nontraditional journey to higher education. I left school at 12 to train for a path I didn’t ultimately pursue, but it gave me many unique experiences and took me to many places across the globe such as Hong Kong, Taiwan, and Tahiti. In addition to my primary language, English, I picked up Mandarin and Cantonese while abroad, thus training strong adaptability and a keen eye for patterns.\nNow, I specialize in using statistical methods through R, Python, and SQL to analyze data for informed data-driven decision making. My nontraditional global background gives me a flexible and resourceful problem-solving mindset, and my strong work ethic ensures I’m always willing to put in the effort to learn and grow."
   },
   {
     "objectID": "about.html#hobbies",
     "href": "about.html#hobbies",
     "title": "About Oliver",
     "section": "Hobbies",
-    "text": "Hobbies"
+    "text": "Hobbies\n\nDrawing\nPhotography\nMusic Composition\nMusical Instruments:\n\nAlto Saxophone\nTenor Saxophone\nFlute\nPiano\nElectric Guitar"
   },
   {
     "objectID": "about.html#skills",
     "href": "about.html#skills",
     "title": "About Oliver",
     "section": "Skills",
-    "text": "Skills"
+    "text": "Skills\n\nCoding Languages: R, Python, SQL\nTechnical Software: Visual Studio Code, RStudio, JupyterLab, Microsoft Office\nCreative Software: Tableau, Voyant Tools, Ableton Live, Sibelius, Finale, Adobe Creative Suite (After Effects, Audition, Illustrator, Media Encoder, Photoshop, and Premiere Pro)\nLanguages:\n\nPrimary Language: English\nFluent in verbal Mandarin and Cantonese"
   },
   {
     "objectID": "projects/project_01/project_01.html",
@@ -144,6 +144,13 @@
     "href": "projects/project_03/project_03.html#links",
     "title": "2020 Exit Polls",
     "section": "Links",
-    "text": "Links\nProject Report\nLink to Github Repository"
+    "text": "Links\nProject Report\nGithub Repository"
+  },
+  {
+    "objectID": "about.html#lets-connect",
+    "href": "about.html#lets-connect",
+    "title": "About Oliver",
+    "section": "Let’s Connect!",
+    "text": "Let’s Connect!\nFeel free to reach out to me on LinkedIn or check out my projects on Github.\nI look forward to discussing how I can contribute to your team!"
   }
 ]
