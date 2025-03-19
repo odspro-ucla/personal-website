@@ -27,4 +27,4 @@ This research project was sparked by observations of the diverse relationships A
 
 ## Links
 
-[Project Site](https://comparebnb.humspace.ucla.edu/)
+[Project Site](https://odspro-ucla.github.io/comparebnb/)
