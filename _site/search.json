@@ -4,63 +4,63 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nComparebnb\n\n\n\nGroup\n\n\nWeb Development\n\n\nSocial Impact\n\n\n\nSocioeconomic analysis of the Airbnb’s operations in London and New York City.\n\n\n\n\n\n\nDec 16, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaffeine Island\n\n\n\nGroup\n\n\nExperiment\n\n\nCognitive Analysis\n\n\n\nInvestigating the effects of caffeine consumption on human cognitive function.\n\n\n\n\n\n\nJun 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2020 Exit Polls\n\n\n\nGroup\n\n\nMachine Learning\n\n\nSocial Impact\n\n\n\nPredictive modeling of the 2020 U.S. Presidential Election.\n\n\n\n\n\n\nDec 9, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nComparebnb\n\n\n\nGroup\n\n\nWeb Development\n\n\nSocial Impact\n\n\n\nSocioeconomic analysis of the Airbnb’s operations in London and New York City.\n\n\n\n\n\n\nDec 16, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaffeine Island\n\n\n\nGroup\n\n\nExperiment\n\n\nCognitive Analysis\n\n\n\nInvestigating the effects of caffeine consumption on human cognitive function.\n\n\n\n\n\n\nJun 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2020 Exit Polls\n\n\n\nGroup\n\n\nMachine Learning\n\n\nSocial Impact\n\n\n\nPredictive modeling of the 2020 U.S. Presidential Election.\n\n\n\n\n\n\nDec 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCOVID City\n\n\n\nGroup\n\n\nInferential Statistics\n\n\nSocial Impact\n\n\n\nHow Different Lockdown Measures within the United States Have Affected the Economy since COVID-19.\n\n\n\n\n\n\nMar 14, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/project_02/project_02.html",
-    "href": "projects/project_02/project_02.html",
-    "title": "Caffeine Island",
+    "objectID": "projects/project_03/project_03.html",
+    "href": "projects/project_03/project_03.html",
+    "title": "2020 Exit Polls",
     "section": "",
-    "text": "Project Type: Academic Group Project\nRole: Data Analyst\nResponsibilities:\n\nContributed in a team of seven to investigate the effects of caffeine consumption on human cognitive function, utilizing The Islands virtual simulation platform from The University of Queensland.\nDetermined a lack of improvement in cognitive function with caffeine consumption through Analysis of Variance (ANOVA).\nCoordinated with team members to distribute caffeine doses and record cognitive function scores with minimal confounding factors.\n\nCo-wrote Introduction section."
+    "text": "Project Type: Academic Group Project\nRole: Lead Data Engineer\nResponsibilities:\n\nGuided a team of five to develop a predictive model for the 2020 U.S. Presidential Election using exit poll data.\nIntegrated logistic regression and random forest machine learning algorithms to predict the election outcome with a 85% accuracy rate.\nDesigned 20+ visualizations included in the final report.\n\nCo-wrote Model Selection, Model Assumptions, and Results sections."
   },
   {
-    "objectID": "projects/project_02/project_02.html#project-details",
-    "href": "projects/project_02/project_02.html#project-details",
-    "title": "Caffeine Island",
+    "objectID": "projects/project_03/project_03.html#project-details",
+    "href": "projects/project_03/project_03.html#project-details",
+    "title": "2020 Exit Polls",
     "section": "",
-    "text": "Project Type: Academic Group Project\nRole: Data Analyst\nResponsibilities:\n\nContributed in a team of seven to investigate the effects of caffeine consumption on human cognitive function, utilizing The Islands virtual simulation platform from The University of Queensland.\nDetermined a lack of improvement in cognitive function with caffeine consumption through Analysis of Variance (ANOVA).\nCoordinated with team members to distribute caffeine doses and record cognitive function scores with minimal confounding factors.\n\nCo-wrote Introduction section."
+    "text": "Project Type: Academic Group Project\nRole: Lead Data Engineer\nResponsibilities:\n\nGuided a team of five to develop a predictive model for the 2020 U.S. Presidential Election using exit poll data.\nIntegrated logistic regression and random forest machine learning algorithms to predict the election outcome with a 85% accuracy rate.\nDesigned 20+ visualizations included in the final report.\n\nCo-wrote Model Selection, Model Assumptions, and Results sections."
   },
   {
-    "objectID": "projects/project_02/project_02.html#abstract",
-    "href": "projects/project_02/project_02.html#abstract",
-    "title": "Caffeine Island",
+    "objectID": "projects/project_03/project_03.html#abstract",
+    "href": "projects/project_03/project_03.html#abstract",
+    "title": "2020 Exit Polls",
     "section": "Abstract",
-    "text": "Abstract\nCaffeine is one of the most commonly consumed legal drugs on the market, boasting various effects ranging from improved physiological capabilities to addictions. This investigative project challenges the validity of popular claims that caffeine can improve mental performance such as increasing a person’s attention span. A simulated island population was utilized to research the effects of caffeine with a Replicated Latin Square Design to experiment. 63 participants were selected to participate in the study and were assigned one of 3 levels of caffeine, and each participant underwent a 10-minute attention test before and after taking their assigned amount of caffeine. The differences in their test results were compared, and these differences found that caffeine did not have a significant effect on any participant’s attention test scores. Caffeine has many known practical and popular uses in consumer products, but it may not be suitable for maintaining a person’s attention span. Further research is recommended to ascertain caffeine’s exact benefits and drawbacks. As with any drug, caffeine should be consumed in moderation, and consumers using caffeine as a performance enhancer should ensure to consume caffeine for the appropriate tasks."
+    "text": "Abstract\nThis analysis aims to explore patterns in voting behavior using demographic and social attitude data. Utilizing logistic regression and random forest, we identified variables such as higher education levels, support for legal abortion, and belief in climate change as positively associated with voting Democratic, while better financial situations and Christian religious affiliations were negatively associated with voting Democratic. A model with 6 predictors was determined to be most applicable with a prediction accuracy 85% and a ROC AUC score of 0.91. Future efforts should focus on standardizing survey questions to minimize the number of survey versions and and increase effective sample size and representation which will improve model accuracy."
   },
   {
-    "objectID": "projects/project_02/project_02.html#links",
-    "href": "projects/project_02/project_02.html#links",
-    "title": "Caffeine Island",
+    "objectID": "projects/project_03/project_03.html#links",
+    "href": "projects/project_03/project_03.html#links",
+    "title": "2020 Exit Polls",
     "section": "Links",
     "text": "Links\nProject Report\nGithub Repository"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Oliver Siu",
+    "objectID": "projects/project_01/project_01.html",
+    "href": "projects/project_01/project_01.html",
+    "title": "Comparebnb",
     "section": "",
-    "text": "I’m Oliver, an aspiring statistician passionate about data science and machine learning. Check out my projects and learn how I can contribute to your team!"
+    "text": "Project Type: Academic Group Project\nRole: Lead Web Designer\nResponsibilities:\n\nCollaborated in a team of six to investigate, critique, and publish the socioeconomic impacts of Airbnb on various cities.\nSole website architect spearheading website design, compatibility, and accessibility functions under a 16-hour deadline, ensuring full screen reader compatibility and a 0-error WAVE Evaluation score.\nResponsible for Figures 1 and 10.\n\nCo-wrote Datsets, Overview, and Conclusion pages."
   },
   {
-    "objectID": "index.html#hello",
-    "href": "index.html#hello",
-    "title": "Oliver Siu",
+    "objectID": "projects/project_01/project_01.html#project-details",
+    "href": "projects/project_01/project_01.html#project-details",
+    "title": "Comparebnb",
     "section": "",
-    "text": "I’m Oliver, an aspiring statistician passionate about data science and machine learning. Check out my projects and learn how I can contribute to your team!"
+    "text": "Project Type: Academic Group Project\nRole: Lead Web Designer\nResponsibilities:\n\nCollaborated in a team of six to investigate, critique, and publish the socioeconomic impacts of Airbnb on various cities.\nSole website architect spearheading website design, compatibility, and accessibility functions under a 16-hour deadline, ensuring full screen reader compatibility and a 0-error WAVE Evaluation score.\nResponsible for Figures 1 and 10.\n\nCo-wrote Datsets, Overview, and Conclusion pages."
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Oliver Siu",
-    "section": "Education",
-    "text": "Education\nUniversity of California, Los Angeles (UCLA)\nBachelor of Science, Statistics & Data Science\nExpected June 2025\nSaddleback College\nAssociate in Science – Transfer, Mathematics\nMay 2023"
+    "objectID": "projects/project_01/project_01.html#summary",
+    "href": "projects/project_01/project_01.html#summary",
+    "title": "Comparebnb",
+    "section": "Summary",
+    "text": "Summary\nThis research project was sparked by observations of the diverse relationships Airbnb establishes with various cities worldwide. In examining the impact of Airbnb’s operation on the socioeconomic aspects of London and New York City, this project aimed to uncover the key differences between these two influential cities. A particular interest was aimed in understanding how regulatory adjustments have influenced the supply and demand for short-term rentals and, subsequently, how these changes affect affordability and housing availability."
   },
   {
-    "objectID": "index.html#volunteer-experience",
-    "href": "index.html#volunteer-experience",
-    "title": "Oliver Siu",
-    "section": "Volunteer Experience",
-    "text": "Volunteer Experience\nGrace of Jesus Christ Crusade\nAudio Engineer\nJuly 2014 - December 2017"
+    "objectID": "projects/project_01/project_01.html#links",
+    "href": "projects/project_01/project_01.html#links",
+    "title": "Comparebnb",
+    "section": "Links",
+    "text": "Links\nProject Site\nGithub Repository"
   },
   {
     "objectID": "about.html",
@@ -98,59 +98,87 @@
     "text": "Let’s Connect!\nFeel free to reach out to me on LinkedIn or check out my projects on Github.\nI look forward to discussing how I can contribute to your team!"
   },
   {
-    "objectID": "projects/project_01/project_01.html",
-    "href": "projects/project_01/project_01.html",
-    "title": "Comparebnb",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Oliver Siu",
     "section": "",
-    "text": "Project Type: Academic Group Project\nRole: Lead Web Designer\nResponsibilities:\n\nCollaborated in a team of six to investigate, critique, and publish the socioeconomic impacts of Airbnb on various cities.\nSole website architect spearheading website design, compatibility, and accessibility functions under a 16-hour deadline, ensuring full screen reader compatibility and a 0-error WAVE Evaluation score.\nResponsible for Figures 1 and 10.\n\nCo-wrote Datsets, Overview, and Conclusion pages."
+    "text": "I’m Oliver, an aspiring statistician passionate about data science and machine learning. Check out my projects and learn how I can contribute to your team!"
   },
   {
-    "objectID": "projects/project_01/project_01.html#project-details",
-    "href": "projects/project_01/project_01.html#project-details",
-    "title": "Comparebnb",
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "Oliver Siu",
     "section": "",
-    "text": "Project Type: Academic Group Project\nRole: Lead Web Designer\nResponsibilities:\n\nCollaborated in a team of six to investigate, critique, and publish the socioeconomic impacts of Airbnb on various cities.\nSole website architect spearheading website design, compatibility, and accessibility functions under a 16-hour deadline, ensuring full screen reader compatibility and a 0-error WAVE Evaluation score.\nResponsible for Figures 1 and 10.\n\nCo-wrote Datsets, Overview, and Conclusion pages."
+    "text": "I’m Oliver, an aspiring statistician passionate about data science and machine learning. Check out my projects and learn how I can contribute to your team!"
   },
   {
-    "objectID": "projects/project_01/project_01.html#summary",
-    "href": "projects/project_01/project_01.html#summary",
-    "title": "Comparebnb",
-    "section": "Summary",
-    "text": "Summary\nThis research project was sparked by observations of the diverse relationships Airbnb establishes with various cities worldwide. In examining the impact of Airbnb’s operation on the socioeconomic aspects of London and New York City, this project aimed to uncover the key differences between these two influential cities. A particular interest was aimed in understanding how regulatory adjustments have influenced the supply and demand for short-term rentals and, subsequently, how these changes affect affordability and housing availability."
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Oliver Siu",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles (UCLA)\nBachelor of Science, Statistics & Data Science\nExpected June 2025\nSaddleback College\nAssociate in Science – Transfer, Mathematics\nMay 2023"
   },
   {
-    "objectID": "projects/project_01/project_01.html#links",
-    "href": "projects/project_01/project_01.html#links",
-    "title": "Comparebnb",
-    "section": "Links",
-    "text": "Links\nProject Site\nGithub Repository"
+    "objectID": "index.html#volunteer-experience",
+    "href": "index.html#volunteer-experience",
+    "title": "Oliver Siu",
+    "section": "Volunteer Experience",
+    "text": "Volunteer Experience\nGrace of Jesus Christ Crusade\nAudio Engineer\nJuly 2014 - December 2017"
   },
   {
-    "objectID": "projects/project_03/project_03.html",
-    "href": "projects/project_03/project_03.html",
-    "title": "2020 Exit Polls",
+    "objectID": "projects/project_02/project_02.html",
+    "href": "projects/project_02/project_02.html",
+    "title": "Caffeine Island",
     "section": "",
-    "text": "Project Type: Academic Group Project\nRole: Lead Data Engineer\nResponsibilities:\n\nGuided a team of five to develop a predictive model for the 2020 U.S. Presidential Election using exit poll data.\nIntegrated logistic regression and random forest machine learning algorithms to predict the election outcome with a 85% accuracy rate.\nDesigned 20+ visualizations included in the final report.\n\nCo-wrote Model Selection, Model Assumptions, and Results sections."
+    "text": "Project Type: Academic Group Project\nRole: Data Analyst\nResponsibilities:\n\nContributed in a team of seven to investigate the effects of caffeine consumption on human cognitive function, utilizing The Islands virtual simulation platform from The University of Queensland.\nDetermined a lack of improvement in cognitive function with caffeine consumption through Analysis of Variance (ANOVA).\nCoordinated with team members to distribute caffeine doses and record cognitive function scores with minimal confounding factors.\n\nCo-wrote Introduction section."
   },
   {
-    "objectID": "projects/project_03/project_03.html#project-details",
-    "href": "projects/project_03/project_03.html#project-details",
-    "title": "2020 Exit Polls",
+    "objectID": "projects/project_02/project_02.html#project-details",
+    "href": "projects/project_02/project_02.html#project-details",
+    "title": "Caffeine Island",
     "section": "",
-    "text": "Project Type: Academic Group Project\nRole: Lead Data Engineer\nResponsibilities:\n\nGuided a team of five to develop a predictive model for the 2020 U.S. Presidential Election using exit poll data.\nIntegrated logistic regression and random forest machine learning algorithms to predict the election outcome with a 85% accuracy rate.\nDesigned 20+ visualizations included in the final report.\n\nCo-wrote Model Selection, Model Assumptions, and Results sections."
+    "text": "Project Type: Academic Group Project\nRole: Data Analyst\nResponsibilities:\n\nContributed in a team of seven to investigate the effects of caffeine consumption on human cognitive function, utilizing The Islands virtual simulation platform from The University of Queensland.\nDetermined a lack of improvement in cognitive function with caffeine consumption through Analysis of Variance (ANOVA).\nCoordinated with team members to distribute caffeine doses and record cognitive function scores with minimal confounding factors.\n\nCo-wrote Introduction section."
   },
   {
-    "objectID": "projects/project_03/project_03.html#abstract",
-    "href": "projects/project_03/project_03.html#abstract",
-    "title": "2020 Exit Polls",
+    "objectID": "projects/project_02/project_02.html#abstract",
+    "href": "projects/project_02/project_02.html#abstract",
+    "title": "Caffeine Island",
     "section": "Abstract",
-    "text": "Abstract\nThis analysis aims to explore patterns in voting behavior using demographic and social attitude data. Utilizing logistic regression and random forest, we identified variables such as higher education levels, support for legal abortion, and belief in climate change as positively associated with voting Democratic, while better financial situations and Christian religious affiliations were negatively associated with voting Democratic. A model with 6 predictors was determined to be most applicable with a prediction accuracy 85% and a ROC AUC score of 0.91. Future efforts should focus on standardizing survey questions to minimize the number of survey versions and and increase effective sample size and representation which will improve model accuracy."
+    "text": "Abstract\nCaffeine is one of the most commonly consumed legal drugs on the market, boasting various effects ranging from improved physiological capabilities to addictions. This investigative project challenges the validity of popular claims that caffeine can improve mental performance such as increasing a person’s attention span. A simulated island population was utilized to research the effects of caffeine with a Replicated Latin Square Design to experiment. 63 participants were selected to participate in the study and were assigned one of 3 levels of caffeine, and each participant underwent a 10-minute attention test before and after taking their assigned amount of caffeine. The differences in their test results were compared, and these differences found that caffeine did not have a significant effect on any participant’s attention test scores. Caffeine has many known practical and popular uses in consumer products, but it may not be suitable for maintaining a person’s attention span. Further research is recommended to ascertain caffeine’s exact benefits and drawbacks. As with any drug, caffeine should be consumed in moderation, and consumers using caffeine as a performance enhancer should ensure to consume caffeine for the appropriate tasks."
   },
   {
-    "objectID": "projects/project_03/project_03.html#links",
-    "href": "projects/project_03/project_03.html#links",
-    "title": "2020 Exit Polls",
+    "objectID": "projects/project_02/project_02.html#links",
+    "href": "projects/project_02/project_02.html#links",
+    "title": "Caffeine Island",
     "section": "Links",
     "text": "Links\nProject Report\nGithub Repository"
+  },
+  {
+    "objectID": "projects/project_04/project_04.html",
+    "href": "projects/project_04/project_04.html",
+    "title": "COVID City",
+    "section": "",
+    "text": "Project Type: Academic Group Project\nRole: Editor\nResponsibilities:\n\nCollaborated in a team of six to investigate the economic impact of COVID-19 lockdown policies on New York City and Omaha.\nEdited and formatted the project report adhering to IEEE .Rtex standards.\nCompiled and edited project code to ensure reproducibility\n\nDesigned Figure 1: Histograms, included in the report."
+  },
+  {
+    "objectID": "projects/project_04/project_04.html#project-details",
+    "href": "projects/project_04/project_04.html#project-details",
+    "title": "COVID City",
+    "section": "",
+    "text": "Project Type: Academic Group Project\nRole: Editor\nResponsibilities:\n\nCollaborated in a team of six to investigate the economic impact of COVID-19 lockdown policies on New York City and Omaha.\nEdited and formatted the project report adhering to IEEE .Rtex standards.\nCompiled and edited project code to ensure reproducibility\n\nDesigned Figure 1: Histograms, included in the report."
+  },
+  {
+    "objectID": "projects/project_04/project_04.html#abstract",
+    "href": "projects/project_04/project_04.html#abstract",
+    "title": "COVID City",
+    "section": "Abstract",
+    "text": "Abstract\nThis report investigates the impact of COVID-19 lockdown policies on spending, and whether said policies impacted the economic recovery of a city. We chose to focus on New York City, New York, a state that enforced a mandatory lockdown, and Omaha, Nebraska, a state that did not issue any stay-at-home or complete lockdown orders. This report uses data from the Opportunity Insights data tracker, a non-partisan, not-for-profit organization located at Harvard University. In order to conduct this analysis, we created several time series plots and conducted t-tests using our chosen variables. We found that spending overall was significantly different in the two cities – spending in arts and entertainment decreased while grocery spending increased in New York City, and arts spending increased while grocery spending remained unaffected in Omaha. Our t-tests indicate a significant difference as well, with a p-value \\(&lt; 0.05\\). In conjunction, our t-tests and time series plots both suggest a rejection of the null hypothesis, thus, we conclude that lockdown policies have an impact on spending. However, due to our limiting factors (mainly the confounding variables which occur due to the differences in population, primary industry, and other aspects of the two cities), we are unable to concretely determine the exact impact lockdown policies have. Still, we believe our analysis could result in useful contributions regarding policy decisions, namely the impact that national disasters may have on spending and potential areas of impact to focus on."
+  },
+  {
+    "objectID": "projects/project_04/project_04.html#links",
+    "href": "projects/project_04/project_04.html#links",
+    "title": "COVID City",
+    "section": "Links",
+    "text": "Links\nProject Poster\nProject Report\nGithub Repository"
   }
 ]
