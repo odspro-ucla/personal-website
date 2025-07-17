@@ -32,7 +32,7 @@ This project demonstrates relational database design and SQL expertise through a
 
 - **Resource Allocation**: Analysis revealed that only 24 of 80 episodes received revisions, with some taking over 4 years between completion and first revision, highlighting resource constraints in volunteer translation communities.
 
-- **Workflow Impact**: Quantified how production irregularities force fansubbers to continuously adapt workflows, unlike standardized anime production patterns.
+- **Workflow Impact**: Quantified how production irregularities force donghua fansubbers to continuously adapt workflows, unlike standardized anime production patterns.
 
 ## Links
 
