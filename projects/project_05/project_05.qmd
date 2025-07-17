@@ -1,0 +1,41 @@
+---
+title: "odspro Subs Workflow Management"
+date: "7/16/2025"
+date-format: long
+description: "A comprehensive relational database system analyzing donghua fansubbing workflows, revealing significant production irregularities and translation challenges"
+image: thumbnail.png
+categories: [Personal, Database, SQL]
+format: html
+about:
+  template: marquee
+  image: thumbnail.png
+---
+
+## Project Details
+
+  - Project Type: Personal Project
+  - Role: Solo Developer & Database Designer
+  - Key Achievements:
+    - Architected and implemented a comprehensive relational database system with normalized 8-table schema, optimized indexing, and foreign key constraints to manage donghua (Chinese animation) fansubbing workflows across 80+ episodes.
+    - Automated metadata extraction pipeline using R and ffprobe, eliminating manual data entry and ensuring consistent data quality.
+    - Uncovered production irregularities through SQL analysis and delivered actionable insights through data visualizations that quantified workflow inefficiencies and resource bottlenecks.
+
+## Abstract
+
+This project demonstrates relational database design and SQL expertise through a donghua fansubbing workflow management system. Built from scratch with eight normalized tables and optimized queries, the database tracks 80+ episodes revealing significant production irregularities: 8-24 episodes per season, runtime variations (14-44 minutes), and fluctuating technical specifications. Advanced SQL analysis quantifies donghua's unique workflow challenges compared to standardized anime production, showcasing database implementation skills including proper indexing, foreign key constraints, and complex query optimization for real-world data management.
+
+## Key Findings
+
+- **Production Variability**: Discovered extreme inconsistencies in donghua production with episode counts varying from 8-24 per season and runtime fluctuations of nearly 30 minutes between episodes.
+
+- **Technical Challenges**: Identified non-standardized video resolutions requiring constant subtitle script adjustments, creating additional workflow overhead for fansubbers.
+
+- **Resource Allocation**: Analysis revealed that only 24 of 80 episodes received revisions, with some taking over 4 years between completion and first revision, highlighting resource constraints in volunteer translation communities.
+
+- **Workflow Impact**: Quantified how production irregularities force fansubbers to continuously adapt workflows, unlike standardized anime production patterns.
+
+## Links
+
+[Project Report](fansub_demo.pdf)
+
+[Github Repository](https://github.com/odspro-ucla/fansub-workflow-db)

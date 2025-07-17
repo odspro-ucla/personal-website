@@ -7,6 +7,7 @@ listing:
     - "projects/project_02/project_02.qmd"
     - "projects/project_03/project_03.qmd"
     - "projects/project_04/project_04.qmd"
+    - "projects/project_05/project_05.qmd"
     type: grid
     sort: false
     sort-ui: true
