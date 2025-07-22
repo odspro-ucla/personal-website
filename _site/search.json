@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nComparebnb\n\n\n\nGroup\n\n\nWeb Development\n\n\nSocial Impact\n\n\n\nSocioeconomic analysis of the Airbnb’s operations in London and New York City.\n\n\n\n\n\n\nDec 16, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaffeine Island\n\n\n\nGroup\n\n\nExperiment\n\n\nCognitive Analysis\n\n\n\nInvestigating the effects of caffeine consumption on human cognitive function.\n\n\n\n\n\n\nJun 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2020 Exit Polls\n\n\n\nGroup\n\n\nMachine Learning\n\n\nSocial Impact\n\n\n\nPredictive modeling of the 2020 U.S. Presidential Election.\n\n\n\n\n\n\nDec 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCOVID City\n\n\n\nGroup\n\n\nInferential Statistics\n\n\nSocial Impact\n\n\n\nHow Different Lockdown Measures within the United States Have Affected the Economy since COVID-19.\n\n\n\n\n\n\nMar 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nodspro Subs Workflow Management\n\n\n\nPersonal\n\n\nDatabase\n\n\nSQL\n\n\n\nA comprehensive relational database system analyzing donghua fansubbing workflows, revealing significant production irregularities and translation challenges\n\n\n\n\n\n\nJul 16, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nComparebnb\n\n\n\nGroup\n\n\nWeb Development\n\n\nSocial Impact\n\n\n\nSocioeconomic analysis of the Airbnb’s operations in London and New York City.\n\n\n\n\n\n\nDec 16, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaffeine Island\n\n\n\nGroup\n\n\nExperiment\n\n\nCognitive Analysis\n\n\n\nInvestigating the effects of caffeine consumption on human cognitive function.\n\n\n\n\n\n\nJun 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2020 Exit Polls\n\n\n\nGroup\n\n\nMachine Learning\n\n\nSocial Impact\n\n\n\nPredictive modeling of the 2020 U.S. Presidential Election.\n\n\n\n\n\n\nDec 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCOVID City\n\n\n\nGroup\n\n\nInferential Statistics\n\n\nSocial Impact\n\n\n\nHow Different Lockdown Measures within the United States Have Affected the Economy since COVID-19.\n\n\n\n\n\n\nMar 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nodspro Subs Workflow Database\n\n\n\nPersonal\n\n\nDatabase\n\n\nSQL\n\n\n\nComprehensive database system analyzing donghua fansubbing workflows and translation challenges.\n\n\n\n\n\n\nJul 16, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/project_04/project_04.html",
@@ -184,35 +184,35 @@
   {
     "objectID": "projects/project_05/project_05.html",
     "href": "projects/project_05/project_05.html",
-    "title": "odspro Subs Workflow Management",
+    "title": "odspro Subs Workflow Database",
     "section": "",
     "text": "Project Type: Personal Project\nRole: Solo Developer & Database Designer\nKey Achievements:\n\nArchitected and implemented a comprehensive relational database system with normalized 8-table schema, optimized indexing, and foreign key constraints to manage donghua (Chinese animation) fansubbing workflows across 80+ episodes.\nAutomated metadata extraction pipeline using R and ffprobe, eliminating manual data entry and ensuring consistent data quality.\nUncovered production irregularities through SQL analysis and delivered actionable insights through data visualizations that quantified workflow inefficiencies and resource bottlenecks."
   },
   {
     "objectID": "projects/project_05/project_05.html#project-details",
     "href": "projects/project_05/project_05.html#project-details",
-    "title": "odspro Subs Workflow Management",
+    "title": "odspro Subs Workflow Database",
     "section": "",
     "text": "Project Type: Personal Project\nRole: Solo Developer & Database Designer\nKey Achievements:\n\nArchitected and implemented a comprehensive relational database system with normalized 8-table schema, optimized indexing, and foreign key constraints to manage donghua (Chinese animation) fansubbing workflows across 80+ episodes.\nAutomated metadata extraction pipeline using R and ffprobe, eliminating manual data entry and ensuring consistent data quality.\nUncovered production irregularities through SQL analysis and delivered actionable insights through data visualizations that quantified workflow inefficiencies and resource bottlenecks."
   },
   {
     "objectID": "projects/project_05/project_05.html#abstract",
     "href": "projects/project_05/project_05.html#abstract",
-    "title": "odspro Subs Workflow Management",
+    "title": "odspro Subs Workflow Database",
     "section": "Abstract",
     "text": "Abstract\nThis project demonstrates relational database design and SQL expertise through a donghua fansubbing workflow management system. Built from scratch with eight normalized tables and optimized queries, the database tracks 80+ episodes revealing significant production irregularities: 8-24 episodes per season, runtime variations (14-44 minutes), and fluctuating technical specifications. Advanced SQL analysis quantifies donghua’s unique workflow challenges compared to standardized anime production, showcasing database implementation skills including proper indexing, foreign key constraints, and complex query optimization for real-world data management."
   },
   {
     "objectID": "projects/project_05/project_05.html#key-findings",
     "href": "projects/project_05/project_05.html#key-findings",
-    "title": "odspro Subs Workflow Management",
+    "title": "odspro Subs Workflow Database",
     "section": "Key Findings",
     "text": "Key Findings\n\nProduction Variability: Discovered extreme inconsistencies in donghua production with episode counts varying from 8-24 per season and runtime fluctuations of nearly 30 minutes between episodes.\nTechnical Challenges: Identified non-standardized video resolutions requiring constant subtitle script adjustments, creating additional workflow overhead for fansubbers.\nResource Allocation: Analysis revealed that only 24 of 80 episodes received revisions, with some taking over 4 years between completion and first revision, highlighting resource constraints in volunteer translation communities.\nWorkflow Impact: Quantified how production irregularities force donghua fansubbers to continuously adapt workflows, unlike standardized anime production patterns."
   },
   {
     "objectID": "projects/project_05/project_05.html#links",
     "href": "projects/project_05/project_05.html#links",
-    "title": "odspro Subs Workflow Management",
+    "title": "odspro Subs Workflow Database",
     "section": "Links",
     "text": "Links\nProject Report\nGithub Repository"
   }

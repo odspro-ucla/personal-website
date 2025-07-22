@@ -1,8 +1,8 @@
 ---
-title: "odspro Subs Workflow Management"
+title: "odspro Subs Workflow Database"
 date: "7/16/2025"
 date-format: long
-description: "A comprehensive relational database system analyzing donghua fansubbing workflows, revealing significant production irregularities and translation challenges"
+description: "Comprehensive database system analyzing donghua fansubbing workflows and translation challenges."
 image: thumbnail.png
 categories: [Personal, Database, SQL]
 format: html
@@ -17,8 +17,8 @@ about:
   - Role: Solo Developer & Database Designer
   - Key Achievements:
     - Architected and implemented a comprehensive relational database system with normalized 8-table schema, optimized indexing, and foreign key constraints to manage donghua (Chinese animation) fansubbing workflows across 80+ episodes.
-    - Automated metadata extraction pipeline using R and ffprobe, eliminating manual data entry and ensuring consistent data quality.
-    - Uncovered production irregularities through SQL analysis and delivered actionable insights through data visualizations that quantified workflow inefficiencies and resource bottlenecks.
+    - Automated metadata extraction pipeline using `R` and `ffprobe`, eliminating manual data entry and ensuring consistent data quality.
+    - Uncovered production irregularities through `SQL` analysis and delivered actionable insights through data visualizations that quantified workflow inefficiencies and resource bottlenecks.
 
 ## Abstract
 
