@@ -1,16 +1,10 @@
 ---
-title: "About Oliver"
+title: "About Me"
 ---
 
 ## Background
 
-“Math is useless,” is what I thought growing up. Math lovers around me illustrate the “elegance” math brought, but none of that “elegance” stopped exploding water pipes or hills collapsing into a landslide. “It should have worked,” is what they would tell me. But it didn’t work.
-
-After entering college, my math professor would chuckle at this story. He was not offended. Instead, he listened to each dilemma and highlighted what those math fanatics could and couldn’t know. Everyone would like to be 100% certain about everything, but accepting randomness is an inherent part of life. Randomness cannot be controlled, but we can try to understand its form and learn how to work with it. And thus, my math professor introduced me to statistics and data science. I no longer worked with abstract theories, but powerful tools that drive impactful decision making.
-
-I have a nontraditional journey to higher education. I left school at 12 to train for a path I didn’t ultimately pursue, but it gave me many unique experiences and took me to many places across the globe such as Hong Kong, Taiwan, and Tahiti. In addition to my primary language, English, I picked up Mandarin and Cantonese while abroad, thus training strong adaptability and a keen eye for patterns.
-
-Now, I specialize in using statistical methods through R, Python, and SQL to analyze data for informed data-driven decision making. My nontraditional global background gives me a flexible and resourceful problem-solving mindset, and my strong work ethic ensures I’m always willing to put in the effort to learn and grow.
+I'm a Statistics and Data Science graduate from UCLA with experience in Python, R, and SQL. My nontraditional path to higher education took me to many places across the globe including Hong Kong, Taiwan, and Tahiti, to name a few. Navigating different languages and cultures developed strong adaptability and pattern recognition skills that I bring to data analysis and problem-solving.
 
 ## Hobbies
 

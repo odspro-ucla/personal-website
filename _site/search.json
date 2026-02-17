@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nComparebnb\n\n\n\nGroup\n\n\nWeb Development\n\n\nSocial Impact\n\n\n\nSocioeconomic analysis of the Airbnb’s operations in London and New York City.\n\n\n\n\n\n\nDec 16, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaffeine Island\n\n\n\nGroup\n\n\nExperiment\n\n\nCognitive Analysis\n\n\n\nInvestigating the effects of caffeine consumption on human cognitive function.\n\n\n\n\n\n\nJun 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2020 Exit Polls\n\n\n\nGroup\n\n\nMachine Learning\n\n\nSocial Impact\n\n\n\nPredictive modeling of the 2020 U.S. Presidential Election.\n\n\n\n\n\n\nDec 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCOVID City\n\n\n\nGroup\n\n\nInferential Statistics\n\n\nSocial Impact\n\n\n\nHow Different Lockdown Measures within the United States Have Affected the Economy since COVID-19.\n\n\n\n\n\n\nMar 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nodspro Subs Workflow Database\n\n\n\nPersonal\n\n\nDatabase\n\n\nSQL\n\n\n\nComprehensive database system analyzing donghua fansubbing workflows and translation challenges.\n\n\n\n\n\n\nJul 16, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nComparebnb\n\n\n\nGroup\n\nWeb Development\n\nSocial Impact\n\n\n\nSocioeconomic analysis of the Airbnb’s operations in London and New York City.\n\n\n\n\n\n\nDec 16, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaffeine Island\n\n\n\nGroup\n\nExperiment\n\nCognitive Analysis\n\n\n\nInvestigating the effects of caffeine consumption on human cognitive function.\n\n\n\n\n\n\nJun 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n2020 Exit Polls\n\n\n\nGroup\n\nMachine Learning\n\nSocial Impact\n\n\n\nPredictive modeling of the 2020 U.S. Presidential Election.\n\n\n\n\n\n\nDec 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nCOVID City\n\n\n\nGroup\n\nInferential Statistics\n\nSocial Impact\n\n\n\nHow Different Lockdown Measures within the United States Have Affected the Economy since COVID-19.\n\n\n\n\n\n\nMar 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nodspro Subs Workflow Database\n\n\n\nPersonal\n\nDatabase\n\nSQL\n\n\n\nComprehensive database system analyzing donghua fansubbing workflows and translation challenges.\n\n\n\n\n\n\nJul 16, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/project_04/project_04.html",
@@ -67,14 +67,14 @@
     "href": "index.html",
     "title": "Oliver Siu",
     "section": "",
-    "text": "I’m Oliver, an aspiring statistician passionate about data science and machine learning. Check out my projects and learn how I can contribute to your team!"
+    "text": "I’m Oliver, a statistician passionate about data science and machine learning. Check out my projects and learn how I can contribute to your team!"
   },
   {
     "objectID": "index.html#hello",
     "href": "index.html#hello",
     "title": "Oliver Siu",
     "section": "",
-    "text": "I’m Oliver, an aspiring statistician passionate about data science and machine learning. Check out my projects and learn how I can contribute to your team!"
+    "text": "I’m Oliver, a statistician passionate about data science and machine learning. Check out my projects and learn how I can contribute to your team!"
   },
   {
     "objectID": "index.html#education",
@@ -93,35 +93,35 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Oliver",
+    "title": "About Me",
     "section": "",
-    "text": "“Math is useless,” is what I thought growing up. Math lovers around me illustrate the “elegance” math brought, but none of that “elegance” stopped exploding water pipes or hills collapsing into a landslide. “It should have worked,” is what they would tell me. But it didn’t work.\nAfter entering college, my math professor would chuckle at this story. He was not offended. Instead, he listened to each dilemma and highlighted what those math fanatics could and couldn’t know. Everyone would like to be 100% certain about everything, but accepting randomness is an inherent part of life. Randomness cannot be controlled, but we can try to understand its form and learn how to work with it. And thus, my math professor introduced me to statistics and data science. I no longer worked with abstract theories, but powerful tools that drive impactful decision making.\nI have a nontraditional journey to higher education. I left school at 12 to train for a path I didn’t ultimately pursue, but it gave me many unique experiences and took me to many places across the globe such as Hong Kong, Taiwan, and Tahiti. In addition to my primary language, English, I picked up Mandarin and Cantonese while abroad, thus training strong adaptability and a keen eye for patterns.\nNow, I specialize in using statistical methods through R, Python, and SQL to analyze data for informed data-driven decision making. My nontraditional global background gives me a flexible and resourceful problem-solving mindset, and my strong work ethic ensures I’m always willing to put in the effort to learn and grow."
+    "text": "I’m a Statistics and Data Science graduate from UCLA with experience in Python, R, and SQL. My nontraditional path to higher education took me to many places across the globe including Hong Kong, Taiwan, and Tahiti, to name a few. Navigating different languages and cultures developed strong adaptability and pattern recognition skills that I bring to data analysis and problem-solving."
   },
   {
     "objectID": "about.html#background",
     "href": "about.html#background",
-    "title": "About Oliver",
+    "title": "About Me",
     "section": "",
-    "text": "“Math is useless,” is what I thought growing up. Math lovers around me illustrate the “elegance” math brought, but none of that “elegance” stopped exploding water pipes or hills collapsing into a landslide. “It should have worked,” is what they would tell me. But it didn’t work.\nAfter entering college, my math professor would chuckle at this story. He was not offended. Instead, he listened to each dilemma and highlighted what those math fanatics could and couldn’t know. Everyone would like to be 100% certain about everything, but accepting randomness is an inherent part of life. Randomness cannot be controlled, but we can try to understand its form and learn how to work with it. And thus, my math professor introduced me to statistics and data science. I no longer worked with abstract theories, but powerful tools that drive impactful decision making.\nI have a nontraditional journey to higher education. I left school at 12 to train for a path I didn’t ultimately pursue, but it gave me many unique experiences and took me to many places across the globe such as Hong Kong, Taiwan, and Tahiti. In addition to my primary language, English, I picked up Mandarin and Cantonese while abroad, thus training strong adaptability and a keen eye for patterns.\nNow, I specialize in using statistical methods through R, Python, and SQL to analyze data for informed data-driven decision making. My nontraditional global background gives me a flexible and resourceful problem-solving mindset, and my strong work ethic ensures I’m always willing to put in the effort to learn and grow."
+    "text": "I’m a Statistics and Data Science graduate from UCLA with experience in Python, R, and SQL. My nontraditional path to higher education took me to many places across the globe including Hong Kong, Taiwan, and Tahiti, to name a few. Navigating different languages and cultures developed strong adaptability and pattern recognition skills that I bring to data analysis and problem-solving."
   },
   {
     "objectID": "about.html#hobbies",
     "href": "about.html#hobbies",
-    "title": "About Oliver",
+    "title": "About Me",
     "section": "Hobbies",
     "text": "Hobbies\n\nDrawing\nPhotography\nMusic Composition\nMusical Instruments:\n\nAlto Saxophone\nTenor Saxophone\nFlute\nPiano\nElectric Guitar"
   },
   {
     "objectID": "about.html#skills",
     "href": "about.html#skills",
-    "title": "About Oliver",
+    "title": "About Me",
     "section": "Skills",
     "text": "Skills\n\nCoding Languages: R, Python, SQL\nTechnical Software: Visual Studio Code, RStudio, JupyterLab, Microsoft Office\nCreative Software: Tableau, Voyant Tools, Ableton Live, Sibelius, Finale, Adobe Creative Suite (After Effects, Audition, Illustrator, Media Encoder, Photoshop, and Premiere Pro)\nLanguages:\n\nPrimary Language: English\nFluent in verbal Mandarin and Cantonese"
   },
   {
     "objectID": "about.html#lets-connect",
     "href": "about.html#lets-connect",
-    "title": "About Oliver",
+    "title": "About Me",
     "section": "Let’s Connect!",
     "text": "Let’s Connect!\nFeel free to reach out to me on LinkedIn or check out my projects on Github.\nI look forward to discussing how I can contribute to your team!"
   },
