@@ -27,6 +27,6 @@ This research project was sparked by observations of the diverse relationships A
 
 ## Links
 
-[Project Site](https://odspro-ucla.github.io/comparebnb/)
+[Project Site](https://comparebnb.netlify.app/)
 
 [Github Repository](https://github.com/odspro-ucla/comparebnb)
